@@ -56,8 +56,13 @@ header {
   align-items: center;
 }
 .starter{
-  background-color: lightgray;
+  background-color: orange;
+  border-radius: 25px;
+  padding: 20px; 
+  width: 665px;
+  height: 150px;
+  
 }
 body{
-  background-color: lightblue;
+  background-color: darkcyan;
 }
